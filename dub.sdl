@@ -1,0 +1,6 @@
+name "dsheet"
+description "Spreadsheets API."
+authors "XXIV"
+copyright "Copyright © 2023, xxiv"
+license "BSL-1.0"
+dependency "vibe-d" version="~>0.9.6"
